@@ -1,12 +1,14 @@
 # Household Income Analysis — EPH (INDEC), Argentina
 
+![Boxplot IPCF](figures/boxplot_ipcf.png)
+![Household income distribution by IPCF condition](figures/grafico2_ipcf_positivo.png)
+![Hypothetical log-normal income distributions](figures/bosquejo_lognormal.png)
+
 Statistical analysis of per capita family income (IPCF) in the Gran Santa Fe and Gran Paraná urban agglomerations, based on microdata from Argentina's Permanent Household Survey (EPH, INDEC), Q4 2025.
 
 **Course:** Statistical Methods for the Social Sciences — Universidad Nacional del Litoral (FHUC-UNL), June 2026
 **Authors:** Enzo Micheli, Santiago Grimmi, Fabricio Vera
 **My role:** data processing and all charts, produced with Python (pandas / matplotlib).
-
-![Boxplot IPCF](figures/boxplot_ipcf.png)
 
 ## What the analysis covers
 
